@@ -65,7 +65,7 @@ package com.mailss.mailss;
 65	            }
 66	        });
 67	
-68	        pdialog = ProgressDialog.show(context, "", "Sending Mail...", true);
+68	        pdialog = ProgressDialog.show(context, "", "Enviando Mail...", true);
 69	
 70	        RetreiveFeedTask task = new RetreiveFeedTask();
 71	        task.execute();
