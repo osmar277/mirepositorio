@@ -97,7 +97,7 @@ package com.mailss.mailss;
 97	            reciep.setText("");
 98	            msg.setText("");
 99	            sub.setText("");
-100	            Toast.makeText(getApplicationContext(), "Message sent", Toast.LENGTH_LONG).show();
+100	            Toast.makeText(getApplicationContext(), "Mensaje Enviado, Gracias por Utilizar Mailss", Toast.LENGTH_LONG).show();
 101	        }
 102	    }
 103	}
